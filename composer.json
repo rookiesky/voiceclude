@@ -1,5 +1,9 @@
 {
     "name": "rookiesky/voiceclude",
+    "description": "中文转语音",
+    "keywords": ["php", "voice"],
+    "license": "MIT",
+    "type": "php",
     "require": {},
     "autoload":{
         "psr-4":{
