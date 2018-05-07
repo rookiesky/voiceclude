@@ -1,0 +1,9 @@
+{
+    "name": "rookiesky/voiceclude",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "RookieVoice\\":"src/"
+        }
+    }
+}
