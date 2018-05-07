@@ -4,6 +4,7 @@
     "keywords": ["php", "voice"],
     "license": "MIT",
     "type": "php",
+    "minimum-stability": "dev",
     "require": {},
     "autoload":{
         "psr-4":{
